@@ -65,6 +65,8 @@ npm install lucide-react
 
 If using the connected version, update `API_BASE` at the top of the file if your backend isn't on `localhost:8081`, and start the backend before submitting a payment.
 
+Preview URL: https://g3xnb7t3-5174.inc1.devtunnels.ms/
+
 ## How the animations work
 
 No animation library required — everything runs on native browser APIs:
